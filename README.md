@@ -1,8 +1,9 @@
 # fifa-world-cup-2022-prediction-airflow
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)](https://airflow.apache.org/)
-[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
-Extract, Transform, Load (ETL) Pipeline using Apache Airflow to scrap Fifa World Cup 2022 matches result.  
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)    
+  
+Extract, Transform, Load (ETL) Pipeline using Apache Airflow to scrap Fifa World Cup 2022 matches result from Wikipedia.  
 
 ## Anggota Kelompok
 1. Marsellius 20/456372/TK/50502  
